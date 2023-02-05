@@ -1,0 +1,15 @@
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 38\obj\Debug\net7.0\HW Task 38.csproj.AssemblyReference.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 38\obj\Debug\net7.0\HW Task 38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 38\obj\Debug\net7.0\HW Task 38.AssemblyInfoInputs.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 38\obj\Debug\net7.0\HW Task 38.AssemblyInfo.cs
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 38\obj\Debug\net7.0\HW Task 38.csproj.CoreCompileInputs.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 38\bin\Debug\net7.0\HW Task 38.exe
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 38\bin\Debug\net7.0\HW Task 38.deps.json
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 38\bin\Debug\net7.0\HW Task 38.runtimeconfig.json
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 38\bin\Debug\net7.0\HW Task 38.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 38\bin\Debug\net7.0\HW Task 38.pdb
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 38\obj\Debug\net7.0\HW Task 38.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 38\obj\Debug\net7.0\refint\HW Task 38.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 38\obj\Debug\net7.0\HW Task 38.pdb
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 38\obj\Debug\net7.0\HW Task 38.genruntimeconfig.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 38\obj\Debug\net7.0\ref\HW Task 38.dll

@@ -1,0 +1,15 @@
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 36\bin\Debug\net7.0\HW Task 36.exe
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 36\bin\Debug\net7.0\HW Task 36.deps.json
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 36\bin\Debug\net7.0\HW Task 36.runtimeconfig.json
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 36\bin\Debug\net7.0\HW Task 36.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 36\bin\Debug\net7.0\HW Task 36.pdb
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 36\obj\Debug\net7.0\HW Task 36.csproj.AssemblyReference.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 36\obj\Debug\net7.0\HW Task 36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 36\obj\Debug\net7.0\HW Task 36.AssemblyInfoInputs.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 36\obj\Debug\net7.0\HW Task 36.AssemblyInfo.cs
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 36\obj\Debug\net7.0\HW Task 36.csproj.CoreCompileInputs.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 36\obj\Debug\net7.0\HW Task 36.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 36\obj\Debug\net7.0\refint\HW Task 36.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 36\obj\Debug\net7.0\HW Task 36.pdb
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 36\obj\Debug\net7.0\HW Task 36.genruntimeconfig.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 5 Funct&Arrays\HW Task 36\obj\Debug\net7.0\ref\HW Task 36.dll
